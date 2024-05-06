@@ -1,5 +1,6 @@
 name: separate_with
 description: intersperse "segmenter" in "list"
+repository: https://github.com/AielloChan/separate_with
 version: 1.0.0
 
 environment:
